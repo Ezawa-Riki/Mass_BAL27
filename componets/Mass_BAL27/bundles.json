@@ -1,0 +1,177 @@
+{
+    "manifest": [
+        {
+            "key": "assets/bal27/mods/barrel_bal27_burst.bundle",
+            "dependencyKeys": [
+                "assets/bal27/mods/barrel_bal27_def.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/barrel_bal27_def.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/barrel_bal27_heavy.bundle",
+            "dependencyKeys": [
+                "assets/bal27/mods/barrel_bal27_def.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/barrel_bal27_long.bundle",
+            "dependencyKeys": [
+                "assets/bal27/mods/barrel_bal27_def.bundle"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/mag_bal27_std_57x28_30.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/muzzle_bal27_def_57x28.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/pistolgrip_bal27_aim.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/pistolgrip_bal27_ass.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/pistolgrip_bal27_snp.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/pistolgrip_bal27_tac.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/pistolgrip_bal27_tape.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/silencer_bal27_57x28.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/stock_bal27_def.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/stock_bal27_heavy.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/stock_bal27_light.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/mods/stock_bal27_tac.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/bal27_animations.bundle",
+            "dependencyKeys": [
+                "assets/bal27/bal27_staticdata.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle"
+            ]
+        },
+        {
+            "key": "assets/bal27/bal27_materials.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/bal27/bal27_prefabs.bundle",
+            "dependencyKeys": [
+                "assets/bal27/bal27_materials.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "assets/bal27/bal27_sound.bundle",
+            "dependencyKeys": [
+                "assets/content/audio/blendoptions/assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/bal27/bal27_staticdata.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/bal27/weapon_bal27_57x28_container.bundle",
+            "dependencyKeys": [
+                "assets/bal27/bal27_animations.bundle",
+                "assets/bal27/bal27_prefabs.bundle",
+                "assets/bal27/bal27_sound.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+            ]
+        }
+    ]
+}

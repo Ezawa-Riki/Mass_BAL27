@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "file": "NTrader.js",
+    "sourceRoot": "",
+    "sources": [
+        "NTrader.ts"
+    ],
+    "names": [],
+    "mappings": ";;;AAAA,IAAY,OAGX;AAHD,WAAY,OAAO;IACf,uCAA4B,CAAA;IAC5B,+CAAoC,CAAA;AACxC,CAAC,EAHW,OAAO,uBAAP,OAAO,QAGlB"
+}
